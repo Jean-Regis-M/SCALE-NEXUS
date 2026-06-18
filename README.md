@@ -1,6 +1,6 @@
 # Scale Nexus
 
-![Scale Nexus Operational Dashboard](nexus.png)
+![Scale Nexus Operational Dashboard](nexus.PNG)
 
 [![Android Build](https://img.shields.io/badge/Platform-Android-72CE7B.svg?style=flat-square&logo=android)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF.svg?style=flat-square&logo=kotlin)](https://kotlinlang.org)
