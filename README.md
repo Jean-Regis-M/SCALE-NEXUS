@@ -72,7 +72,7 @@ A clean, sliding modal consultation generator enabling users to request on-site 
 ### Installation of Source Files
 1. Clone the repository to your desktop machine:
 ```bash
-git clone https://github.com/your-username/scale-nexus.git
+git clone https://github.com/Jean-Regis-M/SCALE-NEXUS.git
 cd scale-nexus
 ```
 
