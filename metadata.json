@@ -1,0 +1,6 @@
+{
+  "name": "Scale Nexus",
+  "description": "Reliable AI Systems for the World's Most Important Decisions. Scale delivers proven data, evaluations, and outcomes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
