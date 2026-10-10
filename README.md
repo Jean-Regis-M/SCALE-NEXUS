@@ -24,6 +24,7 @@ Scale Nexus utilizes a customized Material 3 dark slate identity built on safety
 ## 🚀 Key Functional Modules
 
 ### 1. Centralized Nexus AI Evaluation Dashboard
+
 A highly responsive quality assurance terminal displaying real-time task evaluation results.
 * **Multi-Project Matrix Router**: Clickable segment tabs toggle between separate dataset evaluation nodes:
   * *Nexus-V5 Core LLM*
@@ -35,6 +36,7 @@ A highly responsive quality assurance terminal displaying real-time task evaluat
 
 ### 2. Live Enterprise Management Console
 A restricted engineering portal displaying system operations with live-simulated stats:
+
 * **Real-Time KPI Tracking**: Dynamically increments GPU cluster throughput (T/s) and human labeler feedback counts in the background using Kotlin Coroutines and Flows.
 * **Active Cluster Runs**: Lists active compilation jobs, gradient alignment status, and remaining runtime targets.
 * **GPU Compute Farms**: Tracks multi-region H100 and A100 rack layout utilization indices with green heartbeat active-state visuals.
